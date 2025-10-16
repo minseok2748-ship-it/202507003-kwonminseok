@@ -17,12 +17,11 @@ Kotlin 기반 스마트 재고 관리 시스템**입니다.
 
 
 # 실행 방법
-
 1. Gradle 빌드
-```bash
 ./gradlew build
 2. 프로그램 실행
 java -jar build/libs/store-system-202507003-kwonminseok.jar
+```bash
 
 
 ---------------------------------------------------------------
